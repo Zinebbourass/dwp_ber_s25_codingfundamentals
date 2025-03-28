@@ -1,2 +1,4 @@
-# comment
-a = 12
+print("helloworld!")
+print("mynameiszinebbourass")
+print("happyfriday")
+print("pythonlearner")
